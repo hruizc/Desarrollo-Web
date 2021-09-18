@@ -92,6 +92,7 @@
 </main>
 
 <!-- Hace referencia a las vistas llamando al archivo footer -->
+<!-- Hace referencia a las vistas llamando al archivo footer -->
 <?php include('includes/footer.php'); ?>
 
     
